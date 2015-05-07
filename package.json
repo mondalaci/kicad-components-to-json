@@ -1,0 +1,26 @@
+{
+  "name": "kicad-components-to-json",
+  "version": "0.0.1",
+  "description": "KiCad components to JSON converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mondalaci/kicad-components-to-json.git"
+  },
+  "keywords": [
+    "kicad",
+    "components",
+    "cmp",
+    "json",
+    "converter"
+  ],
+  "author": "Laszlo Monda",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/mondalaci/kicad-components-to-json/issues"
+  },
+  "homepage": "https://github.com/mondalaci/kicad-components-to-json"
+}
