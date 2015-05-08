@@ -1,7 +1,7 @@
 {
   "name": "kicad-components-to-json",
   "version": "0.0.2",
-  "description": "KiCad components to JSON converter",
+  "description": "KiCad components (.cmp) to JSON converter",
   "main": "index.js",
   "scripts": {
     "test": "test/test.js"
