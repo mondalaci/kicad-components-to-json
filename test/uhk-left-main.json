@@ -1,0 +1,746 @@
+[
+    {
+        "timestamp": "/513150A5",
+        "reference": "C1",
+        "value": "15pF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/513150C6",
+        "reference": "C2",
+        "value": "15pF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/5134D4E5",
+        "reference": "C3",
+        "value": "0.1uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/5134D4EB",
+        "reference": "C4",
+        "value": "0.1uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51348E24",
+        "reference": "C5",
+        "value": "0.1uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/513490C2",
+        "reference": "C6",
+        "value": "0.1uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/513486A1",
+        "reference": "C7",
+        "value": "0.1nF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51366E03",
+        "reference": "C8",
+        "value": "0.1uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C91DE4",
+        "reference": "C10",
+        "value": "0.01uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C91DDE",
+        "reference": "C11",
+        "value": "0.1uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51366B28",
+        "reference": "C12",
+        "value": "1uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C91DD2",
+        "reference": "C13",
+        "value": "10uF",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51D56BFD",
+        "reference": "C14",
+        "value": "100uF",
+        "module": "UGL:SM1206_Tantalum"
+    },
+    {
+        "timestamp": "/53DCA671",
+        "reference": "CR1",
+        "value": "ESD",
+        "module": "UGL:SM0603"
+    },
+    {
+        "timestamp": "/513E6C50",
+        "reference": "CR2",
+        "value": "ESD",
+        "module": "UGL:SM0603"
+    },
+    {
+        "timestamp": "/513E6C62",
+        "reference": "CR3",
+        "value": "ESD",
+        "module": "UGL:SM0603"
+    },
+    {
+        "timestamp": "/513E6C68",
+        "reference": "CR4",
+        "value": "ESD",
+        "module": "UGL:SM0603"
+    },
+    {
+        "timestamp": "/513E6C6E",
+        "reference": "CR5",
+        "value": "ESD",
+        "module": "UGL:SM0603"
+    },
+    {
+        "timestamp": "/53D49332",
+        "reference": "CR6",
+        "value": "ESD",
+        "module": "UGL:SM0603"
+    },
+    {
+        "timestamp": "/55266CD7",
+        "reference": "CR7",
+        "value": "ESD",
+        "module": "UGL:SM0603"
+    },
+    {
+        "timestamp": "/50103655",
+        "reference": "D11",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B49B",
+        "reference": "D12",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B526",
+        "reference": "D13",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B539",
+        "reference": "D14",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B53F",
+        "reference": "D15",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B545",
+        "reference": "D16",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B54B",
+        "reference": "D17",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B80B",
+        "reference": "D21",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B812",
+        "reference": "D22",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B81A",
+        "reference": "D23",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B820",
+        "reference": "D24",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B826",
+        "reference": "D25",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B82C",
+        "reference": "D27",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B84B",
+        "reference": "D31",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B852",
+        "reference": "D32",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B85A",
+        "reference": "D33",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B860",
+        "reference": "D34",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B866",
+        "reference": "D35",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B86C",
+        "reference": "D37",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B88B",
+        "reference": "D41",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B892",
+        "reference": "D42",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B89A",
+        "reference": "D43",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8A0",
+        "reference": "D44",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8A6",
+        "reference": "D45",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8AC",
+        "reference": "D46",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/552D6592",
+        "reference": "D47",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8CB",
+        "reference": "D51",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8D2",
+        "reference": "D52",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8DA",
+        "reference": "D53",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8E0",
+        "reference": "D54",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8E6",
+        "reference": "D55",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/5011B8EC",
+        "reference": "D56",
+        "value": "DIODE",
+        "module": "UGL:SOD-123_Diode"
+    },
+    {
+        "timestamp": "/51348F74",
+        "reference": "L1",
+        "value": "INDUCTOR",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/5130F31E",
+        "reference": "P1",
+        "value": "CONN_5",
+        "module": "UGL:0955012641"
+    },
+    {
+        "timestamp": "/5130F32D",
+        "reference": "P2",
+        "value": "CONN_5",
+        "module": "UGL:009155005541006_uhk"
+    },
+    {
+        "timestamp": "/5130F33C",
+        "reference": "P3",
+        "value": "CONN_6",
+        "module": "UGL:isp6pin"
+    },
+    {
+        "timestamp": "/52A33478",
+        "reference": "P4",
+        "value": "CONN_18",
+        "module": "UGL:SFV18R-2STE1HLF"
+    },
+    {
+        "timestamp": "/52A0BDE3",
+        "reference": "Q1",
+        "value": "PNP",
+        "module": "UGL:SOT-23"
+    },
+    {
+        "timestamp": "/55286E94",
+        "reference": "Q2",
+        "value": "PNP",
+        "module": "UGL:SOT-23"
+    },
+    {
+        "timestamp": "/51315D6C",
+        "reference": "R1",
+        "value": "47K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C990B9",
+        "reference": "R2",
+        "value": "4.7K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C9904E",
+        "reference": "R3",
+        "value": "4.7K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/53CF0531",
+        "reference": "R4",
+        "value": "47",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/53CF6DE8",
+        "reference": "R5",
+        "value": "47",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51348BBE",
+        "reference": "R6",
+        "value": "110",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/53C91BB5",
+        "reference": "R7",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/53C8F67D",
+        "reference": "R8",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/552AE560",
+        "reference": "R9",
+        "value": "100K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/552AF5B4",
+        "reference": "R10",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/512E8FC6",
+        "reference": "R11",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/512ECCDF",
+        "reference": "R12",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/512ECCE5",
+        "reference": "R13",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/512ECCEB",
+        "reference": "R14",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/512ECCF1",
+        "reference": "R15",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3B1C4",
+        "reference": "R21",
+        "value": "110",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3B1DE",
+        "reference": "R22",
+        "value": "150",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3B202",
+        "reference": "R23",
+        "value": "150",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3B226",
+        "reference": "R24",
+        "value": "150",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3BBA1",
+        "reference": "R25",
+        "value": "150",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3BCD9",
+        "reference": "R26",
+        "value": "150",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3BCDF",
+        "reference": "R27",
+        "value": "150",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51C3BCE5",
+        "reference": "R28",
+        "value": "150",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/51346274",
+        "reference": "R30",
+        "value": "10K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/52A0BEE6",
+        "reference": "R31",
+        "value": "1K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/52A0C023",
+        "reference": "R32",
+        "value": "47K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/55283349",
+        "reference": "R33",
+        "value": "1K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/5528CE5A",
+        "reference": "R34",
+        "value": "47K",
+        "module": "UGL:SM0805"
+    },
+    {
+        "timestamp": "/512E8C90",
+        "reference": "SW11",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512E928F",
+        "reference": "SW12",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512E96BC",
+        "reference": "SW13",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512E9870",
+        "reference": "SW14",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512E9AE1",
+        "reference": "SW15",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512E9D6F",
+        "reference": "SW16",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EA103",
+        "reference": "SW17",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512E90C4",
+        "reference": "SW21",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EA010",
+        "reference": "SW22",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EA0FD",
+        "reference": "SW23",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EA29C",
+        "reference": "SW24",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EA7E0",
+        "reference": "SW25",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EA973",
+        "reference": "SW27",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EADA8",
+        "reference": "SW31",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EAE62",
+        "reference": "SW32",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EAE68",
+        "reference": "SW33",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EAE6E",
+        "reference": "SW34",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EAE74",
+        "reference": "SW35",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EAE7A",
+        "reference": "SW37",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EB909",
+        "reference": "SW42",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EB90F",
+        "reference": "SW43",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EB915",
+        "reference": "SW44",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EB91B",
+        "reference": "SW45",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EB921",
+        "reference": "SW46",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/552D64DE",
+        "reference": "SW47",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EC393",
+        "reference": "SW51",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EC399",
+        "reference": "SW52",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EC39F",
+        "reference": "SW53",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EC3A5",
+        "reference": "SW54",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EC3AB",
+        "reference": "SW55",
+        "value": "SPST",
+        "module": "UGL:SS-5GLD"
+    },
+    {
+        "timestamp": "/512EC3B1",
+        "reference": "SW56",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/552D126D",
+        "reference": "SW411",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/512EB903",
+        "reference": "SW412",
+        "value": "SPST",
+        "module": "UGL:Cherry_MX"
+    },
+    {
+        "timestamp": "/5130EF01",
+        "reference": "U1",
+        "value": "ATMEGA88-A",
+        "module": "UGL:ATMEGA_TQFP32"
+    },
+    {
+        "timestamp": "/51BA4E0E",
+        "reference": "U2",
+        "value": "PCA9634",
+        "module": "UGL:PCA9634_TSSOP"
+    },
+    {
+        "timestamp": "/51BA6D4E",
+        "reference": "U3",
+        "value": "TPIC6C595",
+        "module": "UGL:TPIC6C595_SO16"
+    },
+    {
+        "timestamp": "/5131506E",
+        "reference": "X1",
+        "value": "16Mhz",
+        "module": "UGL:2-SMD"
+    }
+]
